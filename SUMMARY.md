@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [ಇ ಪುಸ್ತಕ ಯೋಜನೆ](README.md)
+* [ಪ್ರಕಾಶಕರ ನುಡಿ](chapter1.md)
+
