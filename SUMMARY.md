@@ -12,4 +12,5 @@
 * [೭. ಸಾಹಿತ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಮನುಷ್ಯ](saahitya_mattu_samaajika_manushya.md)
 * [೮. ಅಭಿವ್ಯಕ್ತಿ ಸ್ವಾತಂತ್ರ-ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ](abhipraaya_swatantrya_ondu_pratikriye.md)
 * [೯. ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಾಮಾಣಿಕತೆ](saahityadalli_pramaanikathe.md)
+* [೧೦. ಸಾಹಿತ್ಯ ಮತ್ತು ಗುಂಪುಗಾರಿಕೆ : ಒಂದು ಟಿಪ್ಪಣಿ](saahitya_mattu_gumpugaarike_ondu_tippani.md)
 
