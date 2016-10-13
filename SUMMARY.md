@@ -7,4 +7,5 @@
 * [೨. ಸಾಹಿತ್ಯ : ಜೀವನದ ಗತಿಬಿಂಬ](saahityajeevanadagatibimba.md)
 * [೩. ಕವಿ-ಸಹೃದಯ](kavi_sahrudaya.md)
 * [೪. ಕವಿಯಲ್ಲಿ ವಿಶಿಷ್ಟತೆ](kaviyalli_visheshathe.md)
+* [೫. ಸಮಕಾಲೀನ ಪ್ರಜ್ಞೆ](samakaalina_pragne.md)
 
