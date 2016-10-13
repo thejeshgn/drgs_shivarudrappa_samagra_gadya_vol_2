@@ -10,4 +10,5 @@
 * [೫. ಸಮಕಾಲೀನ ಪ್ರಜ್ಞೆ](samakaalina_pragne.md)
 * [೬. ಸಾಹಿತ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕಪ್ರಜ್ಞೆ](saahitya_mattu_samaagikapragne.md)
 * [೭. ಸಾಹಿತ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಮನುಷ್ಯ](saahitya_mattu_samaajika_manushya.md)
+* [೮. ಅಭಿವ್ಯಕ್ತಿ ಸ್ವಾತಂತ್ರ-ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ](abhipraaya_swatantrya_ondu_pratikriye.md)
 
